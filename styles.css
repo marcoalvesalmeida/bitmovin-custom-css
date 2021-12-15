@@ -1,3 +1,26 @@
-.bmpui-ui-chromecast {
+.bmpui-ui-skin-smallscreen .bmpui-ui-chromecast {
+    background-color: beige;
     display: none;
 }
+
+.bmpui-ui-skin-smallscreen .bmpui-ui-chromecast.bmpui-on {
+    background-color: blue;
+    display: none;
+}
+
+.bmpui-ui-chromecast {
+    background-color: blueviolet;
+    display: none;
+}
+
+.bmpui-ui-chromecast.bmpui-on {
+    background-color: cadetblue;
+    display: none;
+}
+
+.bmpui-ui-skin-smallscreen .bmpui-ui-chromecast.bmpui-disabled {
+    background-color: chartreuse;
+    display: none;
+}
+
+
